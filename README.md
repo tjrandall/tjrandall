@@ -4,7 +4,7 @@
 
 ### Navy Veteran • Technologist • Building toward the Blue Economy
 
-*From the flight deck of USS Iowa to GCP Cloud Run — bridging maritime operations and technology*
+*From the teak decks of USS Iowa to GCP Cloud Run — bridging maritime operations and technology*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tjrandall-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tjrandall)
 [![Email](https://img.shields.io/badge/Email-thomas.james.randall%40gmail.com-D14836?style=flat&logo=gmail)](mailto:thomas.james.randall@gmail.com)
